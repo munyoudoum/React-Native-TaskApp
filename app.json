@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "appname",
-    "slug": "appname",
+    "name": "taskapp",
+    "slug": "taskapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
